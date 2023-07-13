@@ -1,5 +1,5 @@
-##### Hi, I'm Mokhtar:
- am a backend developer (Node.js) with a passion for solving mathematics, algorithm, and data structure problems. I am also interested in the software engineering life cycle
+##### Hi 👋, I'm Mokhtar Hussein
+ Iam a backend developer (Node.js) with a passion for solving mathematics, algorithm, and data structure problems. I am also interested in the software engineering life cycle
 
 
 ### Languages and Tools 🛠 
