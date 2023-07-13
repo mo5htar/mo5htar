@@ -1,8 +1,8 @@
   <h1 align="center">Hi 👋, I'm Mokhtar Hussein</h1>
 
-<h3 align="center">Iam backend backend developer nodejs</h3>
+<h3 align="center">Backend developer nodejs</h3>
 
-- 🌱 I am a backend developer Nodejs passion Building scalable and maintainable back-end systems That includes creating APIs, managing databases, handling server-side and I am competitive Programmer solving mathematics, algorithm, and data structure problems. 
+- 🌱 I am  passion Backend development Building scalable and maintainable back-end systems That includes creating APIs, managing databases, handling server-side and I am competitive Programmer solving mathematics, algorithm, and data structure problems. 
 
 <h3 align="left">Problem-Solving:</h3>
 <p align="left">
