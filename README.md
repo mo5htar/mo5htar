@@ -17,7 +17,7 @@
   <a href="https://atcoder.jp/users/mo55" target="blank"
     ><img
       align="center"
-      src="AtCoder https://scrapbox.io/icons/AtCoder"
+      src="https://img.atcoder.jp/assets/top/img/logo_bk.svg"
       alt="Mokhtar_Kandel"
       height="80"
       width="100"
