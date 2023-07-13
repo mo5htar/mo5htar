@@ -108,10 +108,10 @@
     />
   </a>
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
+      src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png"
+      alt="SQL"
       width="40"
       height="40"
     />
