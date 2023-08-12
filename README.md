@@ -50,7 +50,7 @@
   <a href="#"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
   <a href="#"><img alt="Github" src="https://skillicons.dev/icons?i=github"></a>
   <a href="#"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"></a>
-  <a href="#"><img alt="Pug" src=" https://skillicons.dev/icons?i=pug"></a>
+  <a href="#"><img alt="Pug" src="https://skillicons.dev/icons?i=pug"></a>
   <a href="#"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
   <a href="#"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
   <a href="#"><img alt="C++" src="https://skillicons.dev/icons?i=cpp"></a>
