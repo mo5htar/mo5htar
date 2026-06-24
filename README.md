@@ -2,7 +2,7 @@
 
 <h3 align="center">Backend developer nodejs</h3>
 
-- 🌱 I am  passion Backend development Building scalable and maintainable back-end systems That includes creating APIs, managing databases, handling server-side and I am competitive Programmer solving mathematics, algorithm, and data structure problems. 
+- 🌱 Backend Engineer with 3+ years of professional experience building reliable, scalable server-side systems and RESTful APIs. designing and maintaining critical ERP modules — General Ledger, Accounts Payable, and Inventory Management — that process thousands of daily financial transactions. Proficient in Node.js, Express.js, Java, PostgreSQL, MongoDB, and SQL Server. Experienced with Redis caching, Docker, and CI/CD pipelines. Passionate about writing clean, testable code using SOLID principles and design patterns, and committed to continuous growth through competitive programming and hands-on project building.. 
 
 <h3 align="left">Problem-Solving:</h3>
 <p align="left">
